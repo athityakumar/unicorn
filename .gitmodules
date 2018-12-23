@@ -1,0 +1,6 @@
+[submodule "unicorn-backend"]
+	path = unicorn-backend
+	url = https://github.com/athityakumar/unicorn-backend
+[submodule "unicorn-frontend"]
+	path = unicorn-frontend
+	url = https://github.com/athityakumar/unicorn-frontend
