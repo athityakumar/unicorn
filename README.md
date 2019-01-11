@@ -1,5 +1,5 @@
 # unicorn
-UNIfied Content Recommendation Network
+UNIfied COntent Recommendation Network
 
 ### Origin story
 
